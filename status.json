@@ -10,6 +10,18 @@
 
       "is_id": "6ga4R9Gl0ELfqlOhp/WklA==",
 
+      "status":2,
+      "version_code":37,
+      "update_info":{
+        "update_title":"A new version is available",
+        "button_name":"Update app",
+        "des":"Watch 2023 Women's World Cup live online for free on TV. Latest updates for the standing, Lineups, Squad and more.\n\nWhat's new: \n - Real-time broadcast channel.\n - Bugs fixed.",
+        "package":"worldcup.women",
+        "update_button":"Update now",
+        "icon":"https://raw.githubusercontent.com/hmstudiodb/footballlivetv/master/ad/icon1.png",
+        "app_name":"Women World Cup 2023"
+      },
+
       "ads_list": ["am" "is", "sa"]
     },
     "com.photo.editor.test": {
