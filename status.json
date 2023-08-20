@@ -1,0 +1,25 @@
+[{
+    "com.colory.camera.sweet.snap.beauty.camera": {
+      "sa_id": "tx1nybrqTDhC2sHqsSgKcg==",
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      "app_id": "ca-app-pub-3940256099942544~33475333333",
+
+      "interval": 45000,
+
+      "is_id": "6ga4R9Gl0ELfqlOhp/WklA==",
+
+      "ads_list": ["am" "is", "sa"]
+    },
+    "com.photo.editor.test": {
+      "am2_ba": "sXOrBTAqgSKVXhSFUIsMJ3GEU5RxD0SQgIzrOP5YYetwPI+/H9opiS77K69/Eo5R",
+      "am2_in": "sXOrBTAqgSKVXhSFUIsMJ+QY6H0bwqvOM0sfyQMkQy0ubE0PrCWVis1A7HhpVqgy",
+      "am2_na": "sXOrBTAqgSKVXhSFUIsMJ2ljb1Mjahs7ONwE2riS3tulbpCmpLMvipYuZD9y4oeR",
+
+      "ads_list": ["am"]
+    },
+    "common": {
+      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
+    }
+}]
