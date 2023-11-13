@@ -2,9 +2,9 @@
     "com.colory.camera.sweet.snap.beauty.camera": {
       "sa_id": "tx1nybrqTDhC2sHqsSgKcg==",
       "am_ba": "",
-      "am_in": "",
+      "am_in": "JP1KQSc6WeCNL1QIxgytPsAy1VsQpuyfYZPczq7OoqmmVjkUSLADHyHbf9y+2/sI",
       "am_na": "",
-      "app_id": "",
+      "app_id": "JP1KQSc6WeCNL1QIxgytPi4wvRcl617MyvkYT5Sicl1z8EzfsETS/UYj6MSuR3n/",
 
       "interval": 45000,
 
@@ -22,7 +22,7 @@
         "app_name":"Women World Cup 2023"
       },
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "com.photo.editor.test": {
       "am2_ba": "sXOrBTAqgSKVXhSFUIsMJ3GEU5RxD0SQgIzrOP5YYetwPI+/H9opiS77K69/Eo5R",
